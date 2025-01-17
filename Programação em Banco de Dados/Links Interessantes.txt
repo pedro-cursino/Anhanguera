@@ -1,0 +1,4 @@
+temos dois links muito interessante para a prática do SQL. Aprenda jogando
+
+https://mystery.knightlab.com/
+https://sqlzoo.net/wiki/SQL_Tutorial
